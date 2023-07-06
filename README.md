@@ -12,3 +12,6 @@ The percentage change from the opening price at the beginning of a given year to
 The total stock volume of the stock.
 Bonus
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
+
+
+Please note I am unable to sabve the Multiple year stock data file as it is 72,423KB. 
